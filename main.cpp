@@ -12,6 +12,7 @@
  * The files must be named Student.hpp, Student.cpp and stdDev.cpp.*/
 
 #include <iostream>
+#include "Student.hpp"
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
